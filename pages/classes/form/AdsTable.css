@@ -1,0 +1,8 @@
+.sbTableHeader, .sbTableContentRow{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.sbColContent, .sbColHeader{
+    width: 200px;
+}
